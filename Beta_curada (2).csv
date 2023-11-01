@@ -1,0 +1,54 @@
+Molecule ChEMBL ID,Molecule Name,Molecule Max Phase,Molecular Weight,#RO5 Violations,AlogP,Smiles,IC50,pChEMBL Value,NEW_SMILES
+CHEMBL165,RESVERATROL,3,228.25,0,2.97,Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1,1100.0,5.96,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1
+CHEMBL255493,SEQUOIAFLAVONE,None,552.49,2,5.44,COc1cc(O)c2c(=O)cc(-c3ccc(O)c(-c4c(O)cc(O)c5c(=O)cc(-c6ccc(O)cc6)oc45)c3)oc2c1,4900.0,5.31,COc1cc(O)c2c(=O)cc(-c3ccc(O)c(-c4c(O)cc(O)c5c(=O)cc(-c6ccc(O)cc6)oc45)c3)oc2c1
+CHEMBL429694,CONGO RED,-1,696.68,2,8.15,Nc1c(/N=N/c2ccc(-c3ccc(/N=N/c4cc(S(=O)(=O)[O-])c5ccccc5c4N)cc3)cc2)cc(S(=O)(=O)[O-])c2ccccc12.[Na+].[Na+],1300.0,5.89,Nc1c(N=Nc2ccc(-c3ccc(N=Nc4cc(S(=O)(=O)O)c5ccccc5c4N)cc3)cc2)cc(S(=O)(=O)O)c2ccccc12
+CHEMBL95,TACRINE,4,198.27,0,2.7,Nc1c2c(nc3ccccc13)CCCC2,12.21,7.91,N=c1c2c([nH]c3ccccc13)CCCC2
+CHEMBL549959,DEMETHOXYVIRIDIN,None,322.32,0,2.21,C[C@@]12c3ccc4c(c3C(=O)c3occ(c31)C(=O)C[C@H]2O)CCC4=O,13400.0,4.87,CC12c3ccc4c(c3C(=O)c3occ(c31)C(=O)CC2O)CCC4=O
+CHEMBL129795,ISOLIQUIRITIGENIN,None,256.26,0,2.7,O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O,19700.0,4.71,O=C(C=Cc1ccc(O)cc1)c1ccc(O)cc1O
+CHEMBL164,MYRICETIN,None,318.24,1,1.69,O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12,14800.0,4.83,O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12
+CHEMBL573,NIACIN,4,123.11,0,0.78,O=C(O)c1cccnc1,13100.0,4.88,O=C(O)c1cccnc1
+CHEMBL220745,PODOCARPUSFLAVONE A,None,552.49,2,5.44,COc1ccc(-c2cc(=O)c3c(O)cc(O)c(-c4cc(-c5cc(=O)c6c(O)cc(O)cc6o5)ccc4O)c3o2)cc1,4900.0,5.31,COc1ccc(-c2cc(=O)c3c(O)cc(O)c(-c4cc(-c5cc(=O)c6c(O)cc(O)cc6o5)ccc4O)c3o2)cc1
+CHEMBL297453,EPIGALOCATECHIN GALLATE,3,458.38,2,2.23,O=C(O[C@@H]1Cc2c(O)cc(O)cc2O[C@@H]1c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1,4600.0,5.34,O=C(OC1Cc2c(O)cc(O)cc2OC1c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1
+CHEMBL497,CLIOQUINOL,4,305.5,0,3.2,Oc1c(I)cc(Cl)c2cccnc12,100000.0,4.0,Oc1c(I)cc(Cl)c2cccnc12
+CHEMBL93124,PITTSBURGH COMPOUND B,0.5,256.33,0,3.71,CNc1ccc(-c2nc3ccc(O)cc3s2)cc1,19.0,7.72,CNc1ccc(-c2nc3ccc(O)cc3s2)cc1
+CHEMBL541265,SALVIANOLIC ACID B,None,720.64,3,3.13,O=C(/C=C/c1cc(O)cc2c1[C@H](C(O)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O)[C@@H](c1ccc(O)c(O)c1)O2)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O,1540.0,5.81,O=C(C=Cc1cc(O)cc2c1C(C(O)OC(Cc1ccc(O)c(O)c1)C(=O)O)C(c1ccc(O)c(O)c1)O2)OC(Cc1ccc(O)c(O)c1)C(=O)O
+CHEMBL324842,ROSMARINIC ACID,None,360.32,0,1.76,O=C(/C=C/c1ccc(O)c(O)c1)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O,71900.0,4.14,O=C(C=Cc1ccc(O)c(O)c1)OC(Cc1ccc(O)c(O)c1)C(=O)O
+CHEMBL231160,MEMOQUIN,None,632.89,2,6.27,CCN(CCCCCCNC1=CC(=O)C(NCCCCCCN(CC)Cc2ccccc2OC)=CC1=O)Cc1ccccc1OC,5930.0,5.23,CCN(CCCCCC=Nc1cc(O)c(NCCCCCCN(CC)Cc2ccccc2OC)cc1O)Cc1ccccc1OC
+CHEMBL410263,ORANGE G SODIUM,None,452.38,0,3.45,O=S(=O)([O-])c1cc(S(=O)(=O)[O-])c2c(/N=N/c3ccccc3)c(O)ccc2c1.[Na+].[Na+],8700.0,5.06,O=S(=O)(O)c1cc(S(=O)(=O)O)c2c(N=Nc3ccccc3)c(O)ccc2c1
+CHEMBL579205,FLUTEMETAMOL,4,274.32,0,3.85,CNc1ccc(-c2nc3ccc(O)cc3s2)cc1F,24.0,7.62,CNc1ccc(-c2nc3ccc(O)cc3s2)cc1F
+CHEMBL76,CHLOROQUINE,4,319.88,0,4.81,CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12,7000.0,5.16,CCN(CC)CCCC(C)N=c1cc[nH]c2cc(Cl)ccc12
+CHEMBL151,LUTEOLIN,2,286.24,0,2.28,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,6400.0,5.19,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12
+CHEMBL723,CARVEDILOL,4,406.48,0,3.74,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,30000.0,4.52,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12
+CHEMBL150,KAEMPFEROL,None,286.24,0,2.28,O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,75100.0,4.12,O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12
+CHEMBL682,AMODIAQUINE,4,355.87,1,5.18,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,5400.0,5.27,CCN(CC)Cc1cc(N=c2cc[nH]c3cc(Cl)ccc23)ccc1O
+CHEMBL38,TRETINOIN,4,300.44,1,5.6,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)O)C(C)(C)CCC1,180.0,6.75,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O
+CHEMBL377324,GINKGETIN,None,566.52,2,5.74,COc1cc(O)c2c(=O)cc(-c3ccc(OC)c(-c4c(O)cc(O)c5c(=O)cc(-c6ccc(O)cc6)oc45)c3)oc2c1,13200.0,4.88,COc1cc(O)c2c(=O)cc(-c3ccc(OC)c(-c4c(O)cc(O)c5c(=O)cc(-c6ccc(O)cc6)oc45)c3)oc2c1
+CHEMBL3348861,AMPELOPSIN,2,320.25,1,0.89,O=C1c2c(O)cc(O)cc2O[C@H](c2cc(O)c(O)c(O)c2)[C@H]1O,12800.0,4.89,O=C1C(O)c2c(O)cc(O)cc2OC1c1cc(O)c(O)c(O)c1
+CHEMBL28,APIGENIN,None,270.24,0,2.58,O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,23000.0,4.64,O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12
+CHEMBL468154,SCYLLITOL,2,180.16,1,-3.83,O[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O,100000.0,4.0,OC1C(O)C(O)C(O)C(O)C1O
+CHEMBL50,QUERCETIN,3,302.24,0,1.99,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,7940.0,5.1,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12
+CHEMBL191083,METHYLENE BLUE,4,284.41,0,2.5,CN(C)c1ccc2nc3ccc(=[N+](C)C)cc-3sc2c1,550.0,6.26,CN(C)c1ccc2nc3ccc(=[N+](C)C)cc-3sc2c1
+CHEMBL284616,CHLOROGENIC ACID,2,354.31,1,-0.65,O=C(/C=C/c1ccc(O)c(O)c1)O[C@@H]1C[C@](O)(C(=O)O)C[C@@H](O)[C@H]1O,92900.0,4.03,O=C(C=Cc1ccc(O)c(O)c1)OC1CC(O)(C(=O)O)CC(O)C1O
+CHEMBL858,EDETIC ACID,3,292.24,0,-2.07,O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,28400.0,4.55,O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O
+CHEMBL2296789,N-CAFFEOYL-DOPA METHYL ESTER,None,373.36,0,1.42,COC(=O)[C@H](Cc1ccc(O)c(O)c1)NC(=O)/C=C/c1ccc(O)c(O)c1,4900.0,5.31,COC(=O)C(Cc1ccc(O)c(O)c1)=NC(=O)CCc1ccc(O)c(O)c1
+CHEMBL1171643,DAURICHROMENIC ACID,None,370.49,1,6.04,CC(C)=CCC/C(C)=C/CC[C@@]1(C)C=Cc2c(cc(C)c(C(=O)O)c2O)O1,24700.0,4.61,CC(C)=CCCC(C)=CCCC1(C)C=Cc2c(cc(C)c(C(=O)O)c2O)O1
+CHEMBL2012313,CEREBROSIDE,None,742.09,3,6.91,CCCCCCCCCCCCCCC[C@@H](O)C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CC/C=C(\C)CCCCCCCCC,62700.0,4.2,CCCCCCCCCCCCCCCC(=O)C(O)NC(COC1OC(CO)C(O)C(O)C1O)C(O)C=CCCC=C(C)CCCCCCCCC
+CHEMBL513978,GRIFOLIC ACID,None,372.51,1,6.07,CC(C)=CCC/C(C)=C/CC/C(C)=C/Cc1c(O)cc(C)c(C(=O)O)c1O,20300.0,4.69,CC(C)=CCCC(C)=CCCC(C)=CCc1c(O)cc(C)c(C(=O)O)c1O
+CHEMBL145,CAFFEIC ACID,3,180.16,0,1.2,O=C(O)/C=C/c1ccc(O)c(O)c1,32800.0,4.48,O=C(O)C=Cc1ccc(O)c(O)c1
+CHEMBL2048308,FLUTAFURANOL,-1,258.25,0,3.38,CNc1ccc(-c2cc3cc(O)ccc3o2)c(F)n1,24.0,7.62,CN=c1ccc(-c2cc3cc(O)ccc3o2)c(F)[nH]1
+CHEMBL28626,MORIN,None,302.24,0,1.99,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,8500.0,5.07,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12
+CHEMBL81379,RETINAL,None,284.44,1,5.72,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C=O)C(C)(C)CCC1,180.0,6.75,CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=O
+CHEMBL63354,AMENTOFLAVONE,None,538.46,3,5.13,O=c1cc(-c2ccc(O)c(-c3c(O)cc(O)c4c(=O)cc(-c5ccc(O)cc5)oc34)c2)oc2cc(O)cc(O)c12,4800.0,5.32,O=c1cc(-c2ccc(O)c(-c3c(O)cc(O)c4c(=O)cc(-c5ccc(O)cc5)oc34)c2)oc2cc(O)cc(O)c12
+CHEMBL1208903,ISOGINKGETIN,None,566.52,2,5.74,COc1ccc(-c2cc(=O)c3c(O)cc(O)c(-c4cc(-c5cc(=O)c6c(O)cc(O)cc6o5)ccc4OC)c3o2)cc1,10100.0,5.0,COc1ccc(-c2cc(=O)c3c(O)cc(O)c(-c4cc(-c5cc(=O)c6c(O)cc(O)cc6o5)ccc4OC)c3o2)cc1
+CHEMBL378188,BILOBETIN,None,552.49,2,5.44,COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1-c1c(O)cc(O)c2c(=O)cc(-c3ccc(O)cc3)oc12,4700.0,5.33,COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1-c1c(O)cc(O)c2c(=O)cc(-c3ccc(O)cc3)oc12
+CHEMBL81880,ACRIDINE ORANGE,None,265.36,0,3.52,CN(C)c1ccc2cc3ccc(N(C)C)cc3nc2c1,600.0,6.22,CN(C)c1ccc2cc3ccc(N(C)C)cc3nc2c1
+CHEMBL180239,CURCUMIN PYRAZOLE,None,364.4,0,4.18,COc1cc(/C=C/c2cc(/C=C/c3ccc(O)c(OC)c3)[nH]n2)ccc1O,476.0,6.32,COc1cc(C=Cc2cc(C=Cc3ccc(O)c(OC)c3)[nH]n2)ccc1O
+CHEMBL194823,LIPOCRINE,None,478.13,1,6.4,O=C(CCCCC1CCSS1)NCCCNc1c2c(nc3cc(Cl)ccc13)CCCC2,45000.0,4.35,O=C(CCCCC1CCSS1)NCCCN=c1c2c([nH]c3cc(Cl)ccc13)CCCC2
+CHEMBL66,(+)-TAXIFOLIN,None,304.25,0,1.19,O=C1c2c(O)cc(O)cc2O[C@H](c2ccc(O)c(O)c2)[C@H]1O,33000.0,4.48,O=C1C(O)c2c(O)cc(O)cc2OC1c1ccc(O)c(O)c1
+CHEMBL2386881,CAPROSPINOL,None,512.78,2,7.85,CCCCCC(=O)O[C@H]1CC[C@@]2(C)C(=CC[C@@H]3[C@@H]4C[C@@H]5O[C@]6(CC[C@@H](C)CO6)[C@@H](C)[C@@H]5[C@@]4(C)CC[C@@H]32)C1,100000.0,4.0,CCCCCC(=O)OC1CCC2(C)C(=CCC3C2CCC2(C)C3CC3OC4(CCC(C)CO4)C(C)C32)C1
+CHEMBL149082,TRAMIPROSATE,3,139.18,0,-0.78,NCCCS(=O)(=O)O,100000.0,4.0,NCCCS(=O)(=O)O
+CHEMBL986,RETINOL,4,286.46,1,5.51,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/CO)C(C)(C)CCC1,180.0,6.75,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CCO
+CHEMBL374055,"7'',4'''-dimethylamentoflavone",None,566.52,2,5.74,COc1ccc(-c2cc(=O)c3c(O)cc(OC)c(-c4cc(-c5cc(=O)c6c(O)cc(O)cc6o5)ccc4O)c3o2)cc1,20100.0,4.7,COc1ccc(-c2cc(=O)c3c(O)cc(OC)c(-c4cc(-c5cc(=O)c6c(O)cc(O)cc6o5)ccc4O)c3o2)cc1
+CHEMBL503168,DATISCETIN,None,286.24,0,2.28,O=c1c(O)c(-c2ccccc2O)oc2cc(O)cc(O)c12,55400.0,4.26,O=c1c(O)c(-c2ccccc2O)oc2cc(O)cc(O)c12
+CHEMBL291426,HINOKIFLAVONE,None,538.46,2,5.55,O=c1cc(-c2ccc(Oc3c(O)cc4oc(-c5ccc(O)cc5)cc(=O)c4c3O)cc2)oc2cc(O)cc(O)c12,9500.0,5.02,O=c1cc(-c2ccc(Oc3c(O)cc4oc(-c5ccc(O)cc5)cc(=O)c4c3O)cc2)oc2cc(O)cc(O)c12
+CHEMBL289556,OMAPATRILAT,-1,408.55,0,1.94,O=C(N[C@H]1CCS[C@H]2CCC[C@@H](C(=O)O)N2C1=O)[C@@H](S)Cc1ccccc1,199.53,6.7,O=C(NC1CCSC2CCCC(C(=O)O)N2C1=O)C(S)Cc1ccccc1
